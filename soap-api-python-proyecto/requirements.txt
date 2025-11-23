@@ -1,0 +1,4 @@
+spyne==2.14.0
+mysql-connector-python==9.5.0
+lxml==6.0.2
+pytz

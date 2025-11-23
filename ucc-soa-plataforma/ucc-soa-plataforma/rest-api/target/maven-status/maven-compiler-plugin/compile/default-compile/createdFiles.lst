@@ -1,0 +1,7 @@
+com\ucc\soa\rest\entity\Alumno.class
+com\ucc\soa\rest\repository\CalificacionRepository.class
+com\ucc\soa\rest\controller\AlumnoController.class
+com\ucc\soa\rest\entity\Calificacion.class
+com\ucc\soa\rest\repository\AlumnoRepository.class
+com\ucc\soa\rest\controller\CalificacionController.class
+com\ucc\soa\rest\RestApplication.class
